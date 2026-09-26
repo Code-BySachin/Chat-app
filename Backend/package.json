@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Chat-app to connect users used for chatting and resource sharing",
+  "keywords": [
+    "chat",
+    "app",
+    "resource",
+    "share",
+    "friends"
+  ],
+  "license": "ISC",
+  "author": "sachin",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
